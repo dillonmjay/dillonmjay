@@ -79,7 +79,7 @@
 
 
 <script>
-  fetch('https://api.dillonmjay.com/data')
+  fetch('https://dillonmjay.com/')
     .then(response => response.json())
     .then(data => {
       // Use data to display content on your page
