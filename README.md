@@ -3,8 +3,12 @@
 </h2>
 
 <a href="https://dillonmjay.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a>
+<br>
+  
+![](https://komarev.com/ghpvc/?username=your-github-dillonmjay&color=blueviolet)
 <br><br>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dillonmjay&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/dillonmjay)
+
 <p align="left"><img align="left" src="https://github.com/dillonmjay/images/blob/main/I'm_Dillon.gif" width="200px"></p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
@@ -61,75 +65,19 @@
 <br><br>
 <img width="150" alt="SUPPORTMe 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/d2bd3af3-a9c0-404c-8f98-97704b39a19c">
 <br><br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I2VPYED)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dillonm)
 <br><br>
 <img align="left" width="156" alt="Frame 23" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/398dfbb4-ca41-4b39-98ba-76f03ca76bbe">
 
 <br><br>
   
-![](https://komarev.com/ghpvc/?username=your-github-vinodjangid07&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-dillonmjay&color=blueviolet)
 
-![](https://github-readme-stats.vercel.app/api?username=vinodjangid07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=dillonmjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodjangid07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonmjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dillonmjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="dillonmjay" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vinodjangid07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Dillon Jayatillake</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dillonmjay&label=Profile%20views&color=0e75b6&style=flat" alt="dillonmjay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dillonmjay" alt="dillonmjay" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://dev.to/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://twitter.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://kaggle.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://fb.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://instagram.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://dribbble.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://www.behance.net/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://hashnode.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://medium.com/@dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dillonmjay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dillonmjay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="https://discord.gg/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dillonmjay" height="30" width="40" /></a>
-<a href="/dillonmjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="dillonmjay" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dillonmjay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dillonmjay" /></a><a href="https://ko-fi.com/dillonmjay"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dillonmjay" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dillonmjay&show_icons=true&locale=en&layout=compact" alt="dillonmjay" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dillonmjay&show_icons=true&locale=en" alt="dillonmjay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dillonmjay&" alt="dillonmjay" /></p>
+![](https://github-contributor-stats.vercel.app/api?username=dillonmjay&limit=5&theme=dark&combine_all_yearly_contributions=true)
