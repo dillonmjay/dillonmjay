@@ -5,7 +5,7 @@
 <a href="https://dillonmjay.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a>
 <br><br>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dillonmjay&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/dillonmjay)
-<p align="left"><img align="left" src="https://github.com/dillonmjay/images/blob/main/Your%20paragraph%20text.gif" width="200px"></p>
+<p align="left"><img align="left" src="https://github.com/dillonmjay/images/blob/main/I'm_Dillon.gif" width="200px"></p>
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
