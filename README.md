@@ -76,16 +76,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vinodjangid07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-<script>
-  fetch('https://dillonmjay.com/')
-    .then(response => response.json())
-    .then(data => {
-      // Use data to display content on your page
-      document.getElementById("websiteContent").innerHTML = data.content;
-    })
-    .catch(error => console.error('Error:', error));
-</script>
-
-<div id="websiteContent"></div>
