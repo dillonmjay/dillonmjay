@@ -56,7 +56,7 @@
 <br>
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/41752fdd-f8ad-4e92-b263-779fe928da92" alt="C" height="50" title="C">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/086f2661-6998-4569-8c35-852c4254c53a" alt="CPP" height="50" title="C++">
-<iframe src="https://dillonmjay.com" width="100%" height="500px" frameborder="0" allowfullscreen></iframe>
+
 
 <br><br>
 <img width="150" alt="SUPPORTMe 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/d2bd3af3-a9c0-404c-8f98-97704b39a19c">
@@ -78,3 +78,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vinodjangid07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+<script>
+  fetch('https://api.dillonmjay.com/data')
+    .then(response => response.json())
+    .then(data => {
+      // Use data to display content on your page
+      document.getElementById("websiteContent").innerHTML = data.content;
+    })
+    .catch(error => console.error('Error:', error));
+</script>
+
+<div id="websiteContent"></div>
