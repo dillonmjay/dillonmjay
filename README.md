@@ -70,12 +70,10 @@
 <img align="left" width="156" alt="Frame 23" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/398dfbb4-ca41-4b39-98ba-76f03ca76bbe">
 
 <br><br>
-  
+
 ![](https://komarev.com/ghpvc/?username=your-github-dillonmjay&color=blueviolet)
 
 ![](https://github-readme-stats.vercel.app/api?username=dillonmjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonmjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dillonmjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="dillonmjay" /></p>
 
