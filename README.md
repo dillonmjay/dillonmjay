@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
 
 </h2>
@@ -5,7 +7,7 @@
 <a href="https://dillonmjay.github.io/" align="left"><img align="left" width="122" alt="Frame 21" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fc2c1204-e65d-442c-b3b2-c640474b91d6"></a>
 <br><br>
   
-![](https://komarev.com/ghpvc/?username=your-github-dillonmjay&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-dillonmjay&color=blueviolet&abbreviated=true)
 <br><br>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=dillonmjay&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/dillonmjay)
 
