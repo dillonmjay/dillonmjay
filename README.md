@@ -75,9 +75,9 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-dillonmjay&color=blueviolet)
 
-![](https://github-readme-stats.vercel.app/api?username=dillonmjay&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=dillonmjay&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&color=blueviolet)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonmjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonmjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&color=blueviolet)
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=dillonmjay&theme=dark)
 
